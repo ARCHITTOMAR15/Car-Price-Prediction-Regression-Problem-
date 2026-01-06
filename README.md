@@ -5,7 +5,7 @@
 <img src="" align="center" style="width: 100%" />
 </div>  
   
-
+ml%20car.png
 
 
 ### Project Overview  
@@ -53,4 +53,4 @@ This project focuses on predicting the price of cars using machine learning tech
 
 
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
