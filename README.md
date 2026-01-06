@@ -5,6 +5,11 @@
 <img src="" align="center" style="width: 100%" />
 </div>  
 
+![Car Price Prediction(Regression)](ml_car.png)
+<p align="center">
+  <img src="ml_car.png" width="500">
+</p>
+
 
 
 ### Project Overview  
